@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Author Website</title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on Author Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>youremail@example.com (Abdulmohsen)</managingEditor>
+    <webMaster>youremail@example.com (Abdulmohsen)</webMaster>
+    <copyright>© 2025 Abdulmohsen</copyright>
+    <lastBuildDate>Wed, 19 Mar 2025 20:16:56 +0300</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>SecondPost</title>
+      <link>//localhost:1313/posts/2025/secondpost/</link>
+      <pubDate>Wed, 19 Mar 2025 20:16:56 +0300</pubDate>
+      <author>youremail@example.com (Abdulmohsen)</author>
+      <guid>//localhost:1313/posts/2025/secondpost/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>FirstPost</title>
+      <link>//localhost:1313/posts/2025/firstpost/</link>
+      <pubDate>Wed, 19 Mar 2025 20:14:26 +0300</pubDate>
+      <author>youremail@example.com (Abdulmohsen)</author>
+      <guid>//localhost:1313/posts/2025/firstpost/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
